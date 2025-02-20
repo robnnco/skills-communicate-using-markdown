@@ -8,3 +8,6 @@
 $git init for intilize
 this is the code for insitnition for the git repoo /user/peojects/data/.git
 ```
+``` javascript
+var myjavascrpit= "Hello World!"
+```
